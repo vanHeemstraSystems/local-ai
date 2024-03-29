@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+local-ai
+# Local AI
 
-Based on "ABC" at https://www.abc.com/
+Based on "Local AI" at https://localai.io
 
 ## 100 - Introduction
 
